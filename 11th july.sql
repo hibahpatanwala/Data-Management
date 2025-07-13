@@ -48,7 +48,7 @@ INSERT INTO user_info1(id,age,uname)
 values(4,43,"hibah3");
 
 INSERT INTO user_info1(id,age,uname)
-values(97,17,"hibah89");
+values(12,23,"hibah90");
 
 select * 
 from user_info1
